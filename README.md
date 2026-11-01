@@ -12,14 +12,14 @@ VeChainThor has features that set it apart from other EVM-compatible chains: a d
 
 | # | Module | Topics | Status |
 |---|---|---|---|
-| 01 | [Foundations](module-01-foundations/README.md) | VeChainThor, networks, dual-token model (VET/VTHO) | Pending |
-| 02 | [Accounts and Keys](module-02-accounts-and-keys/README.md) | Keypairs, addresses, mnemonics, HD derivation, keystore | Pending |
-| 03 | [Thor REST API](module-03-thor-rest-api/README.md) | Nodes, accounts, blocks, receipts, fee endpoints | Pending |
-| 04 | [Transactions](module-04-transactions/README.md) | Transaction model, clauses, intrinsic gas, legacy and dynamic fee types | Pending |
-| 05 | [Fee Delegation](module-05-fee-delegation/README.md) | VIP-191 designated gas payer, Multi-Party Payment | Pending |
-| 06 | [Contracts and Tokens](module-06-contracts-and-tokens/README.md) | ABI, contract calls, ERC-20 tokens, events and logs | Pending |
-| 07 | [VeBetterDAO](module-07-vebetterdao/README.md) | B3TR, VOT3, X-to-Earn apps, rewards distribution | Pending |
-| 08 | [Certificates](module-08-certificates/README.md) | VIP-192 signed certificates and authentication | Pending |
+| 01 | [Foundations](module-01-foundations/README.md) | VeChainThor, networks, dual-token model (VET/VTHO) | ✅ Done |
+| 02 | [Accounts and Keys](module-02-accounts-and-keys/README.md) | Keypairs, addresses, mnemonics, HD derivation, keystore | 🔄 In progress |
+| 03 | [Thor REST API](module-03-thor-rest-api/README.md) | Nodes, accounts, blocks, receipts, fee endpoints | ⏳ Pending |
+| 04 | [Transactions](module-04-transactions/README.md) | Transaction model, clauses, intrinsic gas, legacy and dynamic fee types | ⏳ Pending |
+| 05 | [Fee Delegation](module-05-fee-delegation/README.md) | VIP-191 designated gas payer, Multi-Party Payment | ⏳ Pending |
+| 06 | [Contracts and Tokens](module-06-contracts-and-tokens/README.md) | ABI, contract calls, ERC-20 tokens, events and logs | ⏳ Pending |
+| 07 | [VeBetterDAO](module-07-vebetterdao/README.md) | B3TR, VOT3, X-to-Earn apps, rewards distribution | ⏳ Pending |
+| 08 | [Certificates](module-08-certificates/README.md) | VIP-192 signed certificates and authentication | ⏳ Pending |
 
 ## SDK Technical Decisions
 
@@ -27,13 +27,13 @@ The [docs-sdk/](docs-sdk/README.md) folder documents the design decisions behind
 
 | Phase | Scope | Versions | Status |
 |---|---|---|---|
-| 1 | Foundations | 0.1.x | Pending |
-| 2 | Thor REST client | 0.2.x | Pending |
-| 3 | Transactions | 0.3.x | Pending |
-| 4 | Fee delegation | 0.4.x | Pending |
-| 5 | Contracts and tokens | 0.5.x | Pending |
-| 6 | VeBetter integration | 0.6.x | Pending |
-| 7 | Certificates and demo app | 0.7.x | Pending |
+| 1 | Foundations | 0.1.x | ⏳ Pending |
+| 2 | Thor REST client | 0.2.x | ⏳ Pending |
+| 3 | Transactions | 0.3.x | ⏳ Pending |
+| 4 | Fee delegation | 0.4.x | ⏳ Pending |
+| 5 | Contracts and tokens | 0.5.x | ⏳ Pending |
+| 6 | VeBetter integration | 0.6.x | ⏳ Pending |
+| 7 | Certificates and demo app | 0.7.x | ⏳ Pending |
 
 ## Official References
 
