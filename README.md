@@ -27,13 +27,13 @@ The [docs-sdk/](docs-sdk/README.md) folder documents the design decisions behind
 
 | Phase | Scope | Versions | Status |
 |---|---|---|---|
-| 1 | Foundations | 0.1.x | ⏳ Pending |
-| 2 | Thor REST client | 0.2.x | ⏳ Pending |
-| 3 | Transactions | 0.3.x | ⏳ Pending |
-| 4 | Fee delegation | 0.4.x | ⏳ Pending |
-| 5 | Contracts and tokens | 0.5.x | ⏳ Pending |
-| 6 | VeBetter integration | 0.6.x | ⏳ Pending |
-| 7 | Certificates and demo app | 0.7.x | ⏳ Pending |
+| 1 | Foundations | `0.0.1-dev` to `0.1.0-dev` | 🔄 In progress |
+| 2 | Thor REST client | `0.1.1-dev` to `0.2.0-dev` | ⏳ Pending |
+| 3 | Transactions | `0.2.1-dev` to `0.3.0-dev` | ⏳ Pending |
+| 4 | Fee delegation | `0.3.1-dev` to `0.4.0-dev` | ⏳ Pending |
+| 5 | Contracts and tokens | `0.4.1-dev` to `0.5.0-dev` | ⏳ Pending |
+| 6 | VeBetter integration | `0.5.1-dev` to `0.6.0-dev` | ⏳ Pending |
+| 7 | Certificates and demo app | `0.6.1-dev` to `0.7.0-dev` | ⏳ Pending |
 
 ## Official References
 
