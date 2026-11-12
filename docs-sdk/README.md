@@ -52,8 +52,8 @@ docs-sdk/
 | Feature | Description | Version | Status |
 |---------|-------------|---------|--------|
 | [Network Configuration](phase-1/network-configuration/README.md) | Official networks, custom networks, chain tag derived from the genesis ID | `0.0.2-dev` | ✅ Done |
-| Hashing | `keccak256` and `blake2b256` | `0.0.3-dev` | 🔄 Next |
-| Keypair and Address | secp256k1 keys, address derivation, checksum | `0.0.4-dev` | ⏳ Pending |
+| [Hashing](https://github.com/nemorixgroup/VeChain-Knowledge-Base/blob/main/docs-sdk/phase-1/hashing/README.md) | `keccak256` and `blake2b256` | `0.0.3-dev` | ✅ Done |
+| Keypair and Address | secp256k1 keys, address derivation, checksum | `0.0.4-dev` | 🔄 Next |
 | Signatures | Signing and public key recovery | `0.0.5-dev` | ⏳ Pending |
 | Mnemonic | BIP-39 mnemonic generation and validation | `0.0.6-dev` | ⏳ Pending |
 | HD Wallet | Derivation at `m/44'/818'/0'/0` | `0.0.7-dev` | ⏳ Pending |
