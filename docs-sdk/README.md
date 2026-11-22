@@ -54,8 +54,8 @@ docs-sdk/
 | [Network Configuration](phase-1/network-configuration/README.md) | Official networks, custom networks, chain tag derived from the genesis ID | `0.0.2-dev` | ✅ Done |
 | [Hashing](https://github.com/nemorixgroup/VeChain-Knowledge-Base/blob/main/docs-sdk/phase-1/hashing/README.md) | `keccak256` and `blake2b256` | `0.0.3-dev` | ✅ Done |
 | [Keypair and Address](https://github.com/nemorixgroup/VeChain-Knowledge-Base/blob/main/docs-sdk/phase-1/keypair-and-address/README.md) | secp256k1 keys, address derivation, checksum | `0.0.4-dev` | ✅ Done |
-| Signatures | Signing and public key recovery | `0.0.5-dev` | 🔄 Next |
-| Mnemonic | BIP-39 mnemonic generation and validation | `0.0.6-dev` | ⏳ Pending |
+| [Signatures](https://github.com/nemorixgroup/VeChain-Knowledge-Base/blob/main/docs-sdk/phase-1/signatures/README.md) | Deterministic low-S signing, public key and address recovery | `0.0.5-dev` | ✅ Done |
+| Mnemonic | BIP-39 mnemonic generation and validation | `0.0.6-dev` | 🔄 Next |
 | HD Wallet | Derivation at `m/44'/818'/0'/0` | `0.0.7-dev` | ⏳ Pending |
 | Keystore | Password-encrypted private keys | `0.0.8-dev` | ⏳ Pending |
 | Phase 1 Closing Audit | Edge cases, error handling and docs review | `0.1.0-dev` | ⏳ Pending |
